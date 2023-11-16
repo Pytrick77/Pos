@@ -1,4 +1,4 @@
-# Projeto de Pos Gradução no **Curso de Análise de Dados e Big Data**.
+# Projeto de Pos Graduação no **Curso de Análise de Dados e Big Data**.
 
 ## Desafio:
 
